@@ -1,0 +1,52 @@
+
+
+body { background: mintcream;
+       color: navy;
+       font-size: 14pt;
+       font-family: 'Maven Pro'
+       }
+       
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: blue 
+     }
+     
+ h2 { font-size: 200%;
+	font-style: bold;
+	}
+	
+li {display: inline-block;
+	border: 2px solid navy }
+
+li2 {display: inline-block;
+	 border: 2px solid navy }
+
+li3 {display: inline-block;
+	 border: 2px solid navy }
+
+li4 {display: inline-block;
+	 border: 2px solid navy }
+	
+li5 {display: inline-block;
+	 border: 2px solid navy }
+
+h2 { color: navy;
+	font-family:'Fjalla One', cursive;
+	}
+	
+h2 { font-family: 'Shadows Into Light', cursive;
+	}
+	
+
+h3 {font-family: 'Allura', cursive;}
+
+h4 {font-family: 'IM Fell Great Primer', serif;}
+
+figure {
+  float: center;
+  width: 90%;
+  text-align: center;
+  font-style: Bold;
+  font-size: 22 ;
+  text-indent: 0; }
+  
